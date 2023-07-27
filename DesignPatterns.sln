@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.FactoryM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.AbstractFactory", "src\CreationalPatterns\CreationalPatterns.AbstractFactory\CreationalPatterns.AbstractFactory.csproj", "{DDDF9231-712A-4DDA-8521-357884CF52D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Singleton", "src\CreationalPatterns\CreationalPatterns.Singleton\CreationalPatterns.Singleton.csproj", "{91E6F0C9-9870-4574-BAEA-7097C6FFB66B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DDDF9231-712A-4DDA-8521-357884CF52D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDDF9231-712A-4DDA-8521-357884CF52D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDDF9231-712A-4DDA-8521-357884CF52D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E6F0C9-9870-4574-BAEA-7097C6FFB66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E6F0C9-9870-4574-BAEA-7097C6FFB66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E6F0C9-9870-4574-BAEA-7097C6FFB66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E6F0C9-9870-4574-BAEA-7097C6FFB66B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
